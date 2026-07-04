@@ -197,8 +197,6 @@ nightly.glpi-project.org,GLPI Agent
 forum.glpi-project.org,GLPI Agent
 glpi-network.com,GLPI Agent
 services.glpi-network.com,GLPI Agent
-github.com,GLPI Agent
-objects.githubusercontent.com,GLPI Agent
 app.gorelo.io,Gorelo RMM
 gorelo-rmm.azurewebsites.net,Gorelo RMM
 gw.usw.gorelo.tech,Gorelo RMM
@@ -292,8 +290,6 @@ kaseya.com,Kaseya (VSA)
 *.khelpdesk.com.br,KHelpDesk
 kickidler.com,KickIdler
 my.kickidler.com,KickIdler
-github.com,Komari
-raw.githubusercontent.com,Komari
 ghcr.io,Komari
 komari-document.pages.dev,Komari
 www.komari.wiki,Komari
@@ -334,15 +330,6 @@ socket.lunixar.com,Lunixar
 downloads.lunixar.com,Lunixar
 devrmm.lunixar.com,Lunixar
 mymeetinggoogle.com,Lunixar
-desktopcentral.manageengine.com,Manage Engine (Desktop Central)
-desktopcentral.manageengine.com.eu,Manage Engine (Desktop Central)
-desktopcentral.manageengine.cn,Manage Engine (Desktop Central)
-*.dms.zoho.com,Manage Engine (Desktop Central)
-*.dms.zoho.com.eu,Manage Engine (Desktop Central)
-*.-dms.zoho.com.cn,Manage Engine (Desktop Central)
-*.manageengine.com,ManageEngine ServiceDesk Plus
-manageengine.com,ManageEngine ServiceDesk Plus
-meshcentral.com,MeshCentral
 *.support.services.microsoft.com,Microsoft Quick Assist
 *.real-time-collaboration.com,Mikogo
 *.mikogo4.com,Mikogo
@@ -419,8 +406,6 @@ netsupportmanager.com,NetSupport Manager
 neturo.uplus.co.kr,Neturo
 *.netviewer.com,Netviewer (GoToMeet)
 netviewer.com,Netviewer (GoToMeet)
-github.com,Nezha
-raw.githubusercontent.com,Nezha
 nezha.wiki,Nezha
 nezhahq.github.io,Nezha
 c.mid.al,Nezha
@@ -485,8 +470,6 @@ qq-messenger.en.softonic.com,QQ IM-remote assistance
 *.kace.com,Quest KACE Agent (formerly Dell KACE)
 *.support.services.microsoft.com,Quick Assist
 radmin.com,RAdmin
-*.analytics.insight.rapid7.com,Rapid7
-*.endpoint.ingress.rapid7.com,Rapid7
 *.remmon.hu,Remmon
 remmon.hu,Remmon
 remobo.en.softonic.com,Remobo
